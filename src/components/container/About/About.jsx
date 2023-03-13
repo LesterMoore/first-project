@@ -34,7 +34,7 @@ const About = () => {
           transition={{ duration: 1 }}
         >
 
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae at rem, tenetur ad ipsa sequi, optio eius laudantium vero minus maxime laborum est et nemo consequatur nostrum distinctio sed, nulla doloribus officiis ea eligendi explicabo.</p>
+          <p>Jeferry Bishop is an acclaimed photographer hailing from New York City. Born and raised in a creative family, his passion for photography was sparked at a young age. After studying photography at NYU, Bishop worked as an assistant for several top photographers in the industry, honing his skills and developing his own artistic style.</p>
           {bios.map(bio => {
             return (
               <div className="bio" key={bio.id}>

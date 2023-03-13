@@ -24,19 +24,19 @@ export const bios = [
     id: 1,
     icon: <FaUser />,
     key: "Name",
-    value: "Abeezarar"
+    value: "Jeffrey Bishop"
   },
   {
     id: 2,
     icon: <FaPhoneAlt />,
     key: "Phone",
-    value: "+959883271929"
+    value: "2032349034"
   },
   {
     id: 3,
     icon: <FaPaperPlane />,
     key: "Email",
-    value: "abee02@gmail.com"
+    value: "jbishop@paier.edu"
   }
 ]
 
@@ -45,9 +45,9 @@ export const icons = [<FaHtml5 />, <FaCss3 />, <DiJavascript />, <SiTypescript /
 export const experiences = [
   {
     id: 1,
-    year: "2022",
-    position: "Senior Web Developer",
-    company: "shop.com.mm"
+    year: "2023",
+    position: "Professor",
+    company: "Paier College"
   },
   {
     di: 2,
